@@ -1,10 +1,11 @@
 Project Title:
-Sevalink Care: Digital Reliability Audit
+Testing and Analysis of SevaLinkCare
 Project Description:
 This project focuses on testing the Sevalink Care website to ensure its functionality, usability, validation, and responsiveness across different devices and user inputs.
 Objective:
 To identify bugs, improve system reliability, and ensure a smooth user experience through structured testing techniques.
 Modules Covered:
+GUI Testing
 Functional Testing
 Validation Testing (BVA)
 Usability Testing
